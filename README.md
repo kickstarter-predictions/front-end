@@ -2,7 +2,7 @@
 
 ## 👋 About Our App:
 
-Kickstarter business dataset collected from [kickstarter.com](https://www.kickstarter.com/) is being utilized to generate predictions of whether or not a business will succeed based on factors such as amount of money pledged, what the business' goal is/was, the country they occured in and many more.
+We used a kickstarter dataset that was originally collected from [kickstarter.com](https://www.kickstarter.com/) and that is being utilized to generate predictions of whether or not a business will succeed based on factors such as amount of money pledged, what the business' goal is/was, the country they occured in and many more.
 
 ## ☝️ Our Proposal:
 
