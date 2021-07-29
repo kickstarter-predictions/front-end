@@ -14,7 +14,7 @@ The model used in this app is trained using Random Forest Regressor and is a das
 
 ## 🧮 About the Data:
 
-The data we had to work with was a list of over 350,000 recent Kickstarter campaigns obtained from Kaggle but collected from the Kickstarter platform, with their features available in a tabular format. The features of these campaigns included, but were not limited to, title, country, main category, success state, monetary goal, amount of money pledged, and the number of backers. A link to the dataset can be found  [here]().
+The data we had to work with was a list of over 350,000 recent Kickstarter campaigns obtained from Kaggle but collected from the Kickstarter platform, with their features available in a tabular format. The features of these campaigns included, but were not limited to, title, country, main category, success state, monetary goal, amount of money pledged, and the number of backers. A link to the dataset can be found  [here](https://www.kaggle.com/kemical/kickstarter-projects).
 
 ## 🛠 Frameworks & Libraries Used:?????
 
