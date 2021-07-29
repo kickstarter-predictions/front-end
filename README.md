@@ -27,5 +27,11 @@ The data we had to work with was a list of over 350,000 recent Kickstarter campa
 - Dash
 - Heroku
 - Gunicorn
+- Seaborn
+- Matplotlib
+- Scipy
+- Pdp
+- Shap
+- Joblib
 
 ###### This app was made in collaboration with Samuel Egbert, Lee Rowe, and Emily Flener.
